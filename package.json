@@ -1,0 +1,9 @@
+{
+    "name": "family-tree",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "start-server": "cd ./backend && PORT=3001 node ./bin/www",
+      "start-frontend": "cd ./frontend && yarn start-client"
+    }
+  }
